@@ -1,0 +1,20 @@
+[
+  {
+    "image": "=IMAGE(\"https://kohler.scene7.com/is/image/PAWEB/GBH_SQTemplate?$product_src=is{PAWEB/aad95530_rgb}&$PDPDesktopSQ$&fmt=webp\",\"image not found\",0,100,100)",
+    "name": "Brazn®",
+    "price": "$6,328.50",
+    "productId": "K-21388-0",
+    "finish": "White",
+    "description": " 66\" x 35\" freestanding bath",
+    "url": "https://www.kohler.com/en/products/bathtubs/shop-bathtubs/brazn-66-x-35-freestanding-bath-21388?skuId=21388-0"
+  },
+  {
+    "image": "=IMAGE(\"https://kohler.scene7.com/is/image/PAWEB/GBH_SQTemplate?$product_src=is{PAWEB/zab67997_rgb}&$PDPDesktopSQ$&fmt=webp\",\"image not found\",0,100,100)",
+    "name": "San Souci®",
+    "price": "$695.62",
+    "productId": "K-5172-RA-0",
+    "finish": "White",
+    "description": " One-piece compact elongated toilet with concealed trapway, 1.28 gpf",
+    "url": "https://www.kohler.com/en/products/toilets/shop-toilets/san-souci-comfort-height-one-piece-compact-elongated-1-28-gpf-toilet-w-aquapiston-flushing-technology-and-right-hand-trip-lever-concealed-trapway-5172-ra?skuId=5172-RA-0"
+  }
+]
