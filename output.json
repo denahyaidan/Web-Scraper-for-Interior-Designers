@@ -1,20 +1,47 @@
 [
   {
-    "image": "=IMAGE(\"https://kohler.scene7.com/is/image/PAWEB/GBH_SQTemplate?$product_src=is{PAWEB/aad95530_rgb}&$PDPDesktopSQ$&fmt=webp\",\"image not found\",0,100,100)",
-    "name": "Brazn®",
-    "price": "$6,328.50",
-    "productId": "K-21388-0",
-    "finish": "White",
-    "description": " 66\" x 35\" freestanding bath",
-    "url": "https://www.kohler.com/en/products/bathtubs/shop-bathtubs/brazn-66-x-35-freestanding-bath-21388?skuId=21388-0"
+    "imageTitle": "image1",
+    "name": "Components®",
+    "price": "$3,137.96",
+    "productId": "K-T77984-4-SN",
+    "finish": "Vibrant Polished Nickel",
+    "description": " Floor-mount bath filler trim with lever handles and handshower",
+    "url": "https://www.kohler.com/en/products/bathtubs/shop-bathtub-faucets/components-floor-mount-bath-filler-trim-with-lever-handles-and-handshower-t77984-4?skuId=T77984-4-SN"
   },
   {
-    "image": "=IMAGE(\"https://kohler.scene7.com/is/image/PAWEB/GBH_SQTemplate?$product_src=is{PAWEB/zab67997_rgb}&$PDPDesktopSQ$&fmt=webp\",\"image not found\",0,100,100)",
-    "name": "San Souci®",
-    "price": "$695.62",
-    "productId": "K-5172-RA-0",
-    "finish": "White",
-    "description": " One-piece compact elongated toilet with concealed trapway, 1.28 gpf",
-    "url": "https://www.kohler.com/en/products/toilets/shop-toilets/san-souci-comfort-height-one-piece-compact-elongated-1-28-gpf-toilet-w-aquapiston-flushing-technology-and-right-hand-trip-lever-concealed-trapway-5172-ra?skuId=5172-RA-0"
+    "imageTitle": "image2",
+    "name": "Components™",
+    "price": "$238.61",
+    "productId": "K-25159-SN",
+    "finish": "Vibrant Polished Nickel",
+    "description": " 12\" grab bar",
+    "url": "https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-12-grab-bar-25159?skuId=25159-SN"
+  },
+  {
+    "imageTitle": "image3",
+    "name": "Components®",
+    "price": "$129.00",
+    "productId": "K-78377-SN",
+    "finish": "Vibrant Polished Nickel",
+    "description": " Towel arm",
+    "url": "https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-towel-arm-78377?skuId=78377-SN"
+  },
+  {
+    "imageTitle": "image4",
+    "name": "Components™",
+    "price": "$238.61",
+    "productId": "K-25159-SN",
+    "finish": "Vibrant Polished Nickel",
+    "description": " 12\" grab bar",
+    "url": "https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-12-grab-bar-25159?skuId=25159-SN"
+  },
+  {
+    "imageTitle": "image5",
+    "name": "Components®",
+    "price": "$83.89",
+    "productId": "K-78378-SN",
+    "finish": "Vibrant Polished Nickel",
+    "description": " Robe hook",
+    "url": "https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/robe-hook-assembly-78378?skuId=78378-SN"
   }
 ]

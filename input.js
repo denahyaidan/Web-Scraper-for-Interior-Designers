@@ -1,8 +1,9 @@
-
 const urlsArray = [
-    "https://www.kohler.com/en/products/bathtubs/shop-bathtubs/brazn-66-x-35-freestanding-bath-21388?skuId=21388-0",
-    "https://www.kohler.com/en/products/toilets/shop-toilets/san-souci-comfort-height-one-piece-compact-elongated-1-28-gpf-toilet-w-aquapiston-flushing-technology-and-right-hand-trip-lever-concealed-trapway-5172-ra?skuId=5172-RA-0"
-  ];
+"https://www.kohler.com/en/products/bathtubs/shop-bathtub-faucets/components-floor-mount-bath-filler-trim-with-lever-handles-and-handshower-t77984-4?skuId=T77984-4-SN",
+"https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-12-grab-bar-25159?skuId=25159-SN",
+"https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-towel-arm-78377?skuId=78377-SN",
+"https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-12-grab-bar-25159?skuId=25159-SN",
+"https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/robe-hook-assembly-78378?skuId=78378-SN"
+];
 
-module.exports = urlsArray
-  
+module.exports = urlsArray;

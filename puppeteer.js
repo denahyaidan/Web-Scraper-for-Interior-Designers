@@ -1,5 +1,6 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
+const { title } = require("process");
 
 function transformData(url) {
   if (url.includes("kohler"))
@@ -113,7 +114,7 @@ async function findInfo(browser, page, url, site, exportData, count) {
     console.log("Extracted Data:", productName, productPrice);
 
     exportData.push({
-      image: `=IMAGE("${imageUrl}","image not found",0,100,100)`,
+      imageTitle: `image${count}`,
       name: productName,
       price: productPrice,
       productId: productId,
